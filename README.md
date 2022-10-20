@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Howerchen666
-- 👀 I’m a computer science student in The Ohio State University
+- 👀 I’m a computer science student @The Ohio State University
 - My website is https://Howerchen.cn
 
 <!---
