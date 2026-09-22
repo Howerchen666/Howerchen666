@@ -92,19 +92,12 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <br/>
 
 <a href="https://github.com/Howerchen666">
-  <img src="./assets/stats.svg" alt="Haowen's GitHub Stats" height="165" />
-  <img src="./assets/top-langs.svg" alt="Top Languages" height="165" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Howerchen666">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Howerchen666&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Howerchen666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="165" />
 </a>
 
 </div>

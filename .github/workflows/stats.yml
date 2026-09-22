@@ -44,3 +44,4 @@ jobs:
             git commit -m "📊 [Stats] Update GitHub stats cards"
             git push
           fi
+
