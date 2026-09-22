@@ -1,0 +1,401 @@
+{
+  "status": "IN_PROGRESS",
+  "first_click": true,
+  "mines_count": 8,
+  "grid": {
+    "A1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "A8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "B8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "C8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "D8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "E8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "F8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "G8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H1": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H2": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H3": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H4": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H5": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H6": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H7": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    },
+    "H8": {
+      "revealed": false,
+      "is_mine": false,
+      "val": 0,
+      "detonated": false
+    }
+  },
+  "moves_count": 0,
+  "recent_moves": [],
+  "stats": {
+    "total_games": 1,
+    "community_wins": 0,
+    "total_explosions": 0,
+    "current_streak": 0,
+    "best_streak": 0,
+    "total_safe_tiles": 0
+  }
+}

@@ -1,0 +1,50 @@
+name: Community Minesweeper
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  make-move:
+    name: Process Move
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'minesweeper|')
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Execute Minesweeper Action
+        run: |
+          python scripts/minesweeper.py "${{ github.event.issue.title }}" "${{ github.actor }}" "${{ github.event.issue.number }}"
+
+      - name: Commit and Push Game State
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/minesweeper_state.json README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🎮 [Minesweeper] Move by @${{ github.actor }} (${{ github.event.issue.title }})"
+            git push
+          fi
+
+      - name: Close Issue with Outcome
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          if [ -f issue_comment.md ]; then
+            gh issue close "$ISSUE_NUMBER" --comment "$(cat issue_comment.md)"
+          else
+            gh issue close "$ISSUE_NUMBER" --comment "Move processed! Check the profile README."
+          fi
