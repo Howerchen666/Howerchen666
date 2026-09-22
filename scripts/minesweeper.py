@@ -319,6 +319,8 @@ def render_board_markdown(state):
     lines.append("### 💣 Community Minesweeper")
     lines.append(f"> 💣 **Mines:** `{NUM_MINES:02d}` &nbsp;&nbsp;|&nbsp;&nbsp; **{smiley}** &nbsp;&nbsp;|&nbsp;&nbsp; ⏱️ **Moves:** `{state.get('moves_count', 0):02d}` &nbsp;&nbsp;|&nbsp;&nbsp; {status_badge}")
     lines.append("")
+    lines.append("<sub>📖 <b>How to play:</b> Click any <code>⬜</code> to sweep &bull; Numbers show adjacent mines &bull; Clear all safe tiles without hitting a 💣!</sub>")
+    lines.append("")
 
     # Markdown Table
     col_header = "| | " + " | ".join(COLS) + " |"

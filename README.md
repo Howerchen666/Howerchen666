@@ -28,6 +28,8 @@
 ### 💣 Community Minesweeper
 > 💣 **Mines:** `08` &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🙂 Reset ](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creset&body=Click%20Submit%20new%20issue%20to%20start%20a%20fresh%20game%21)** &nbsp;&nbsp;|&nbsp;&nbsp; ⏱️ **Moves:** `02` &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 In Progress
 
+<sub>📖 <b>How to play:</b> Click any <code>⬜</code> to sweep &bull; Numbers show adjacent mines &bull; Clear all safe tiles without hitting a 💣!</sub>
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A** | ⬛ | ⬛ | 1️⃣ | [⬜](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creveal%7CA4&body=Click%20%27Submit%20new%20issue%27%20to%20reveal%20tile%20A4%21) | [⬜](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creveal%7CA5&body=Click%20%27Submit%20new%20issue%27%20to%20reveal%20tile%20A5%21) | [⬜](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creveal%7CA6&body=Click%20%27Submit%20new%20issue%27%20to%20reveal%20tile%20A6%21) | [⬜](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creveal%7CA7&body=Click%20%27Submit%20new%20issue%27%20to%20reveal%20tile%20A7%21) | [⬜](https://github.com/Howerchen666/Howerchen666/issues/new?title=minesweeper%7Creveal%7CA8&body=Click%20%27Submit%20new%20issue%27%20to%20reveal%20tile%20A8%21) |
