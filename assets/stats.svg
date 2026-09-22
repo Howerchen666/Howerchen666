@@ -18,13 +18,13 @@
     <text x="210" y="0" class="val">1</text>
 
     <text y="25" class="label">📦 Total Commits (inc. private):</text>
-    <text x="210" y="25" class="val">28</text>
+    <text x="210" y="25" class="val">313</text>
 
     <text y="50" class="label">🔀 Total PRs:</text>
     <text x="210" y="50" class="val">4</text>
 
     <text y="75" class="label">🎯 Total Issues:</text>
-    <text x="210" y="75" class="val">1</text>
+    <text x="210" y="75" class="val">5</text>
 
     <text y="100" class="label">🌍 Contributed to:</text>
     <text x="210" y="100" class="val">4</text>
@@ -34,6 +34,6 @@
   <g>
     <circle cx="375" cy="100" r="35" class="ring-bg" />
     <circle cx="375" cy="100" r="35" class="ring-fg" stroke-dasharray="220" stroke-dashoffset="60" />
-    <text x="375" y="100" class="rank-text">B+</text>
+    <text x="375" y="100" class="rank-text">S</text>
   </g>
 </svg>
