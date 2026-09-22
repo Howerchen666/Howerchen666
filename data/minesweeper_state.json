@@ -118,7 +118,7 @@
       "detonated": false
     },
     "C4": {
-      "revealed": false,
+      "revealed": true,
       "is_mine": false,
       "val": 1,
       "detonated": false
@@ -388,8 +388,15 @@
       "detonated": false
     }
   },
-  "moves_count": 2,
+  "moves_count": 3,
   "recent_moves": [
+    {
+      "actor": "Howerchen666",
+      "action": "reveal",
+      "coord": "C4",
+      "result": "Safe (1) +1 tiles",
+      "time": "2026-09-22 02:29 UTC"
+    },
     {
       "actor": "Howerchen666",
       "action": "reveal",
@@ -411,6 +418,6 @@
     "total_explosions": 0,
     "current_streak": 0,
     "best_streak": 0,
-    "total_safe_tiles": 14
+    "total_safe_tiles": 15
   }
 }
