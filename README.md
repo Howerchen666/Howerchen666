@@ -97,8 +97,8 @@
 <br/>
 
 <a href="https://github.com/Howerchen666">
-  <img src="https://github-stats-extended.vercel.app/api?username=Howerchen666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Haowen's GitHub Stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Howerchen666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="./assets/stats.svg" alt="Haowen's GitHub Stats" height="165" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" height="165" />
 </a>
 
 <br/>
