@@ -18,7 +18,7 @@
     <text x="210" y="0" class="val">1</text>
 
     <text y="25" class="label">📦 Total Commits (inc. private):</text>
-    <text x="210" y="25" class="val">314</text>
+    <text x="210" y="25" class="val">317</text>
 
     <text y="50" class="label">🔀 Total PRs:</text>
     <text x="210" y="50" class="val">4</text>
